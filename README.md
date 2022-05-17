@@ -3,7 +3,7 @@
 <p><em>Study at <a href="https://www.fci.bu.edu.eg/en/index.php">Banha University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
   
  [![Linkedin: Manar](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Manar20575)](https://github.com/Manar20575)
-[![Facebook: Manar](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logoColor=white&link=https://www.facebook.com/manarha5642/)](https://www.facebook.com/manarha5642/)
+[![Facebook: Manar](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/manarha5642/)](https://www.facebook.com/manarha5642/)
   
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
