@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Study at <a href="https://www.fci.bu.edu.eg/en/index.php"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Linkedin: Manar Hamada](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manar-hamada-42bb0921a/)](https://www.linkedin.com/in/manar-hamada-42bb0921a/)
+[![Linkedin: Manar Hamada](https://img.shields.io/badge/-Manar Hamada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manar-hamada-42bb0921a/)](https://www.linkedin.com/in/manar-hamada-42bb0921a/)
 [![GitHub Manar Hamada](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Manar20575)
 
 
