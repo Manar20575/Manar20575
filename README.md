@@ -3,8 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Study at <a href="https://www.fci.bu.edu.eg/en/index.php"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-&link=https://www.linkedin.com/in/manar-hamada-42bb0921a/(https://www.linkedin.com/in/manar-hamada-42bb0921a/)
+
+  
+  
+  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 [![GitHub Manar Hamada](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Manar20575)
 
 
