@@ -4,7 +4,7 @@
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
 experience on the long-run in Front-end Development.</p>  
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-  [![Linkedin: Manar](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Manar20575)](https://github.com/Manar20575)
+[![Linkedin: Manar](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Manar20575)](https://github.com/Manar20575)
 [![Facebook: Manar](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/manarha5642/)](https://www.facebook.com/manarha5642/)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
