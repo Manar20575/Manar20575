@@ -3,7 +3,7 @@
 <p><em>Study at <a href="https://www.fci.bu.edu.eg/en/index.php">Banha University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
 experience on the long-run in Front-end Development.</p>
-<p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h4>A little more about me...</h4></p><br>
+<p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"><h4>A little more about me...</h4></p><br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
