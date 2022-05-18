@@ -4,6 +4,7 @@
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
 experience on the long-run in Front-end Development.</p>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
+ - ⚡ Fun fact **I luv Gamming**
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
