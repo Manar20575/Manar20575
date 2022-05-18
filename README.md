@@ -2,8 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Study at <a href="https://www.fci.bu.edu.eg/en/index.php">Banha University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
-experience on the long-run in Front-end Development.</p>  
-<br>
+experience on the long-run in Front-end Development.</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <br>
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin& logoColor=white& link=https://www.linkedin.com/in/manar-hamada-42bb0921a/">
 <br>
