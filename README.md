@@ -5,6 +5,9 @@
 experience on the long-run in Web Development.</p>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
  - ⚡ Fun fact **I luv Gamming**
+ <h5 align="left">cv:</h5>
+ <p align="left">
+  <a href="https://docs.google.com/document/d/1yJ_0FFo9qXiesowAmyTFjBcbcCJ33vAD/edit?usp=drive_link&ouid=103390627592438700446&rtpof=true&sd=true"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dresume&psig=AOvVaw2t8zOr2ve_sajb3CSxDcts&ust=1701536364631000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLjF-Ibb7oIDFQAAAAAdAAAAABAE" alt="mnar7mada" height="30" width="40" /></a>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
