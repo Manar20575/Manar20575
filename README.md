@@ -3,9 +3,9 @@
 <p><em>Study at FCAI in <a href="https://bu.edu.eg/en/index.php"> Banha University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
 experience on the long-run in Web Development.</p>
+<h5 align="left"><a href = "https://manar20575.github.io/resume/" style = "text-decoration: none;color:black;">Resume </a><img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="40"></h5>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
  - ⚡ Fun fact **I luv Gamming**
- <h5 align="left"><a href = "https://manar20575.github.io/resume/">Resume </a><img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="40"></h5>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
