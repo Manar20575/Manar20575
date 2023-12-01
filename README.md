@@ -7,8 +7,7 @@ experience on the long-run in Web Development.</p>
  - ⚡ Fun fact **I luv Gamming**
  <h5 align="left">cv:</h5>
  <span  align="left">
-  <a href="https://docs.google.com/document/d/1yJ_0FFo9qXiesowAmyTFjBcbcCJ33vAD/edit?usp=drive_link&ouid=103390627592438700446&rtpof=true&sd=true"><img align="center" src="![image](https://github.com/Manar20575/Manar20575/assets/74185394/a5cdcec6-261e-47bf-ad85-83187a9c46a0)
-" alt="mnar7mada cv" height="30" width="40" /></a>
+  <a href="https://docs.google.com/document/d/1yJ_0FFo9qXiesowAmyTFjBcbcCJ33vAD/edit?usp=drive_link&ouid=103390627592438700446&rtpof=true&sd=true"><img align="center" src="https://images.app.goo.gl/JYtBPaxEs7n5JwBk6" alt="mnar7mada cv" height="30" width="40" /></a>
   <span/>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
