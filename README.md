@@ -5,7 +5,7 @@
 experience on the long-run in Web Development.</p>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
  - ⚡ Fun fact **I luv Gamming**
- <h5 align="left">cv:</h5>
+ <h5 align="left"><a href = "https://manar20575.github.io/resume/">resume:</a></h5>
  <span  align="left">
   <a href="https://docs.google.com/document/d/1yJ_0FFo9qXiesowAmyTFjBcbcCJ33vAD/edit?usp=drive_link&ouid=103390627592438700446&rtpof=true&sd=true"><img align="center" src="https://images.app.goo.gl/JYtBPaxEs7n5JwBk6" alt="mnar7mada cv" height="30" width="40" /></a>
   <span/>
