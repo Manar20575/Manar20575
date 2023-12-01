@@ -5,7 +5,7 @@
 experience on the long-run in Web Development.</p>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
  - ⚡ Fun fact **I luv Gamming**
- <h5 align="left"><a href = "https://manar20575.github.io/resume/">Resume <div style="width:100%;height:0;padding-bottom:91%;position:relative;"><iframe src="https://giphy.com/embed/BXVRf5GyMlElO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hoppip-heart-hoppip-pixel-BXVRf5GyMlElO">via GIPHY</a></p></a></h5>
+ <h5 align="left"><a href = "https://manar20575.github.io/resume/">Resume<img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="30"></h5>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
