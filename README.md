@@ -8,7 +8,6 @@ experience on the long-run in Web Development.</p>
  - ⚡ Fun fact **I luv Gamming**
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://instagram.com/mnar7mada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnar7mada" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manar-hamada-42bb0921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-hamada-42bb0921a" height="30" width="40" /></a></p>
 <h5 align="left">Languages and Tools:</h5>
  <a href="https://skillicons.dev">
