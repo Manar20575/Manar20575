@@ -15,7 +15,7 @@ experience on the long-run in Web Development.</p>
   </a>
 </p>
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user="Manar20575" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Manar20575&hide_border=true&border_radius=60" alt="GitHub Streak" /></a>
 
 ---
 
