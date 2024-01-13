@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manar Hamada! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"> -->
-<p><em>Study at FCAI in <a href="https://bu.edu.eg/en/index.php"> Banha University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>Studies at FCAI in <a href="https://bu.edu.eg/en/index.php"> Banha University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 <p>Looking to obtain an internship position in a fast-paced environment and acquiring field
 experience on the long-run in Web Development.</p>
 <h5 align="left"><a href = "https://manar20575.github.io/resume/" style = "text-decoration: none;color:black;">Resume </a><img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="40"></h5>
