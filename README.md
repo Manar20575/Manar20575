@@ -5,7 +5,7 @@
 experience on the long-run.</p>
 <h5 align="left"><a href = "https://manar20575.github.io/resume/" style = "text-decoration: none;color:black;">Resume </a><img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="40"></h5>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
- - ⚡ Fun fact **I luv Gamming**
+ - ⚡ Fun fact ** I luv Gamming **
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/manar-hamada-42bb0921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-hamada-42bb0921a" height="30" width="40" /></a></p>
