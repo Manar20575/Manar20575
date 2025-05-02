@@ -16,7 +16,7 @@ experience on the long-run.</p>
 </p>
 <br>
  <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?Manar20575=DenverCoder1)](https://git.io/streak-stats) </p>
 ---
 
 
