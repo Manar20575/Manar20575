@@ -11,7 +11,7 @@ experience on the long-run.</p>
 <a href="https://linkedin.com/in/manar-hamada-42bb0921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-hamada-42bb0921a" height="30" width="40" /></a></p>
 <h5 align="left">Languages and Tools:</h5>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,linux,network,docker"/>
+    <img src="https://skillicons.dev/icons?i=py,git,github,linux,docker,bash"/>
   </a>
 </p>
 <br>
